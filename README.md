@@ -1,4 +1,4 @@
-# Exchange Account Rebalancer
+# BalanceBridge
 
 A desktop toolkit for simulating and coordinating spot-account rebalancing strategies.
 
