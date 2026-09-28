@@ -1,0 +1,33 @@
+.venv/
+.env
+settings.json
+mexc_keys.txt
+*.log
+__pycache__/
+*.py[cod]
+# Local configuration and runtime data
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+/env/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+*.log
+media/
+uploads/
+
+# Frontend build state
+node_modules/
+.next/
+coverage/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
